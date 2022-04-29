@@ -1,14 +1,14 @@
 # **MINIMUM - MAXIMUM NUMBER**
 
-# Information
+## INFORMATION
 
 * **The program that finds which number is the smallest and which number is the largest according to the specified numbers.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **n**, **i**, **max**, **min** and **number** are defined with int.
 
@@ -16,9 +16,7 @@
 
 * When a number is entered, it finds the largest and smallest numbers.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -91,13 +89,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/MinMaxNumber.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
